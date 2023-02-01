@@ -94,4 +94,4 @@ Each of the version 2 programs include an error as well.
 
 ## Multiple Terminals
 
-![My screenshot](Running_Messages.png)
+![My screenshot](Running_Messages.PNG)
