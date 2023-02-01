@@ -1,0 +1,44 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome! 
+
+ It's 2023-01-31 at 03:26 PM
+
+ This file is running on:    nt Windows 10
+ 
+ The Python version is:      3.9.12
+ 
+ The Python interpreter is at: 
+ C:\ProgramData\Miniconda3\python.exe
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: base
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ C:\ProgramData\Miniconda3
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ C:\Users\gdalb\Desktop\SchoolWork\Data Streaming\Week3\streaming-03-rabbitmq
+ 
+ The absolute path to the data directory is:
+
+ C:\Users\gdalb\Desktop\SchoolWork\Data Streaming\Week3\streaming-03-rabbitmq\
+ 
+ The absolute path to this source directory is:
+
+ C:\Users\gdalb\Desktop\SchoolWork\Data Streaming\Week3\streaming-03-rabbitmq
+ 
+ The absolute path to this file is:
+
+ C:\Users\gdalb\Desktop\SchoolWork\Data Streaming\Week3\streaming-03-rabbitmq\about.py
+ 
+==============================================================
+==============================================================
+
